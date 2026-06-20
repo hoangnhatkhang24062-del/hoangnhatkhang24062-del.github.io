@@ -33,7 +33,7 @@ Size: 7032
 Package: com.rpgfarm.eneko
 Name: Eneko
 Version: 1.4
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Description: Live wallpaper!
 Filename: com.rpgfarm.eneko.deb
 Size: 29412
