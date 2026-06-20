@@ -21,3 +21,11 @@ Architecture: iphoneos-arm64
 Description: Protect your privacy! Lock apps with Face ID / Touch ID / Passcode.
 Filename: com.rpgfarm.a-shields.deb
 Size: 50306
+
+Package: com.hoangnhatkhang24062
+Name: SafeLock
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Protect your privacy! Lock home with Face ID / Touch ID / Passcode.
+Filename: com.chienkhang.safelock_1.0_iphoneos-arm64.deb
+Size: 10261
