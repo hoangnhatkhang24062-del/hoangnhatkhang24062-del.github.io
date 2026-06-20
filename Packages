@@ -29,4 +29,3 @@ Architecture: iphoneos-arm64e
 Description: Completely disable Wi-Fi and Bluetooth from Control Center. (RootHide Patched)
 Filename: realcc.deb
 Size: 2672
-
