@@ -27,6 +27,6 @@ Name: RealCC
 Version: 0.0.4-1
 Architecture: iphoneos-arm64e
 Description: Completely disable Wi-Fi and Bluetooth from Control Center. (RootHide Patched)
-Filename: com.yourcompany.realcc_0.0.4-1_iphoneos-arm64e.deb
+Filename: realcc.deb
 Size: 2672
 
