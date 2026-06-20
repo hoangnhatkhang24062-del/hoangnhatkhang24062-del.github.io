@@ -13,3 +13,12 @@ Architecture: iphoneos-arm64
 Description: Battery indicator, but cute!
 Filename: dev.traurige.batterybuddy_1.3.5_iphoneos-arm64.deb
 Size: 36712
+
+Package: com.rpgfarm.a-shields
+Name: A-Shields
+Version: 1.7
+Architecture: iphoneos-arm64
+Description: Protect your privacy! Lock apps with Face ID / Touch ID / Passcode.
+Filename: com.rpgfarm.a-shields.deb
+Size: 51200
+
