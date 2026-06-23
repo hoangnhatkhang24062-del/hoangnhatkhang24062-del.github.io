@@ -61,3 +61,11 @@ Architecture: iphoneos-arm64
 Description: Repo for iOS jailbroken
 Filename: xyz.willy.zebra_1.1.36_iphoneos-arm64.deb
 Size: 3616770
+
+Package: com.winaviation.liquidass
+Name: Liqiud class (rootful)
+Version: 0.0.9a
+Architecture: iphoneos-arm
+Description: Best theme for iPhone
+Filename: dylv.liquidass_0.0.9a_iphoneos-arm.deb
+Size: 1431614
